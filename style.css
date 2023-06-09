@@ -1,0 +1,69 @@
+* {
+    padding: 20px;
+    margin: -15px;
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: white;
+    color: darkblue;
+    height: 10vh;
+
+
+}
+
+.div5 {
+
+    display: block;
+    height: 400px;
+    margin: 20px 300px;
+
+}
+
+.div6 {
+    display: flex;
+    justify-content: center;
+    color: purple;
+}
+
+.div7 {
+    display: flex;
+    justify-content: center;
+    color: purple;
+}
+
+.div8 {
+    display: flex;
+    justify-content: center;
+    margin: 20px 10px;
+    padding: 5px;
+}
+
+.div9 {
+    display: flex;
+    justify-content: center;
+}
+
+.div0 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.div10 {
+    margin: 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+    background-color: lightblue;
+}
+
+.box {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 20vh 20vh;
+
+    grid-gap: 194px;
+}
